@@ -3,7 +3,7 @@ title: Dependable, Efficient, and Intelligent Computing Lab (DETAIL)
 ---
 
 # Sizhe Zhang
-Ph.D. Student (Started at 2021 Spring) [[Google Scholar]](https://scholar.google.com/citations?user=KO4pk_4AAAAJ&) [[LinkedIn]](https://www.linkedin.com/in/sizhe-zhang-0a942413a/)
+Ph.D. Student (Started at 2021 Spring) [[CV]](CV.pdf)  [[Google Scholar]](https://scholar.google.com/citations?user=KO4pk_4AAAAJ&) [[LinkedIn]](https://www.linkedin.com/in/sizhe-zhang-0a942413a/)
 
 Department of Electrical and Computer Engineering
 
