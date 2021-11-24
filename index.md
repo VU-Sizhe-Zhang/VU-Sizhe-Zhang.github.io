@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+---
+title: Dependable, Efficient, and Intelligent Computing Lab (DETAIL)
+---
+## [Home](../) | [**People**](../people) | [Research](../research) | [Publication](../publication) | [About](../about) | [Artifact](../artifact) 
 
-You can use the [editor on GitHub](https://github.com/VU-Sizhe-Zhang/VU-Sizhe-Zhang.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+# Sizhe Zhang
+Ph.D. Student (Started at 2021 Spring) [[Google Scholar]](https://scholar.google.com/citations?user=KO4pk_4AAAAJ&) [[LinkedIn]](https://www.linkedin.com/in/sizhe-zhang-0a942413a/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Department of Electrical and Computer Engineering
 
-```markdown
-Syntax highlighted code block
+Villanova University
 
-# Header 1
-## Header 2
-### Header 3
+Email: szhang6@villanova.edu 
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+## About
+Sizhe Zhang is a **Ph.D.** student in Computer Engineering (CpE) from [Department of Electrical and Computer Engineering](https://www1.villanova.edu/villanova/engineering/departments/ece.html) in [Villanova University](https://www1.villanova.edu/). He obtained his Bachelor of Science degree major in Electrical Engineering from University at Buffalo (SUNY) and Master of Engineering degree major in Electrical and Computer Engineering from Cornell University.
 
-**Bold** and _Italic_ and `Code` text
+## Research & Publication
+### Journal
+1. Depeng Wang, Huijuan Zhang, Tri Vu, Ye Zhan, Akash Malhotra, Pei Wang, Upendra Chitgupi, Aliza Rai, **Sizhe Zhang**, Lidai Wang, Jan D Huizinga, Jonathan F Lovell, Jun Xia. "Trans-illumination intestine projection imaging of intestinal motility in mice". Nature communications, 2021.
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### Conference
+1. **Sizhe Zhang**, Ruixuan Wang, Dongning Ma, Jeff Jun Zhang, Xunzhao Yin, Xun Jiao, "Energy-Efficient Brain-Inspired Hyperdimensional Computing Using Voltage Scaling". 2022 Design, Automation and Test in Europe Conference (**DATE**), Antwerp, Belgium, 2022
+2. **Sizhe Zhang**, Ruixuan Wang, Jeff (Jun) Zhang, Abbas Rahimi, Xun Jiao, "Assessing Robustness of Hyperdimensional Computing Against Errors in Associative Memory". The 32nd IEEE International Conference on Application-specific Systems, Architectures and Processors (**ASAP**), Virtual, 2021. [PDF](https://github.com/VU-DETAIL/vu-detail.github.io/blob/master/asset/ASAP21.pdf)
 
-### Jekyll Themes
+### Honors
+1. DAC 2021 Young Fellow Program
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/VU-Sizhe-Zhang/VU-Sizhe-Zhang.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Last updated: 2021.11.23
